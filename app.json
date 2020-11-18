@@ -1,0 +1,12 @@
+{
+  "name": "jonoguntimobileapp",
+  "displayName": "jonoguntimobileapp",
+  "expo": {
+    "name": "jonoguntimobileapp",
+    "slug": "jonoguntimobileapp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
